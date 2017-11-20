@@ -1,0 +1,6 @@
+Which part of celery do you eat?
+Stem
+Flower
+Stem
+Root
+Seed

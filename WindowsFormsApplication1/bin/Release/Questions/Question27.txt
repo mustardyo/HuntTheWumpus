@@ -1,0 +1,6 @@
+Which of these fruits is a member of the rose family?
+Apple
+Orange
+Apple
+Avocado
+Persimmon
